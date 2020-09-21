@@ -8,6 +8,6 @@ public class HolaMundoController {
 	
 	@RequestMapping("/saludar")
 	public String saludar () {
-		return "Hola mundo jajajajaejejenanlsdjbfhsdbvjdncojdfosfjn";
+		return "Hola mundo!";
 	}
 }
